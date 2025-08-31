@@ -1,7 +1,27 @@
 [
    {
-      "directory" : "D:/Users/abdrazno/workspace_ccstheia/led_ex1_blinky/CPU1_RAM",
-      "command"   : "clang++ -I\"D:/Users/abdrazno/workspace_ccstheia/led_ex1_blinky\" -I\"C:/ti/c2000/C2000Ware_6_00_00_00\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DRAM -Dgeneric_ram_lnk -I\"D:/Users/abdrazno/workspace_ccstheia/led_ex1_blinky/CPU1_RAM/syscfg\" -xc",
-      "file"      : "D:/Users/abdrazno/workspace_ccstheia/led_ex1_blinky/led_ex1_blinky.c"
+      "directory" : "D:/Users/abdrazno/Documents/Testing_igjen/leeeeed/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/Users/abdrazno/Documents/Testing_igjen/leeeeed\" -I\"C:/ti/c2000/C2000Ware_6_00_00_00\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DRAM -Dgeneric_ram_lnk -I\"D:/Users/abdrazno/Documents/Testing_igjen/leeeeed/CPU1_RAM/syscfg\" -DF28003x=1 -I\"C:/ti/c2000/C2000Ware_6_00_00_00/device_support/f28003x/common/include/\" -I\"C:/ti/c2000/C2000Ware_6_00_00_00/driverlib/f28003x/driverlib/\" -DCPU1 -DCMDTOOL -xc",
+      "file"      : "D:/Users/abdrazno/Documents/Testing_igjen/leeeeed/led_ex1_blinky.c"
+   },
+   {
+      "directory" : "D:/Users/abdrazno/Documents/Testing_igjen/leeeeed/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/Users/abdrazno/Documents/Testing_igjen/leeeeed\" -I\"C:/ti/c2000/C2000Ware_6_00_00_00\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DRAM -Dgeneric_ram_lnk -I\"D:/Users/abdrazno/Documents/Testing_igjen/leeeeed/CPU1_RAM/syscfg\" -DF28003x=1 -I\"C:/ti/c2000/C2000Ware_6_00_00_00/device_support/f28003x/common/include/\" -I\"C:/ti/c2000/C2000Ware_6_00_00_00/driverlib/f28003x/driverlib/\" -DCPU1 -DCMDTOOL -xc",
+      "file"      : "D:/Users/abdrazno/Documents/Testing_igjen/leeeeed/CPU1_RAM/syscfg/board.c"
+   },
+   {
+      "directory" : "D:/Users/abdrazno/Documents/Testing_igjen/leeeeed/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/Users/abdrazno/Documents/Testing_igjen/leeeeed\" -I\"C:/ti/c2000/C2000Ware_6_00_00_00\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DRAM -Dgeneric_ram_lnk -I\"D:/Users/abdrazno/Documents/Testing_igjen/leeeeed/CPU1_RAM/syscfg\" -DF28003x=1 -I\"C:/ti/c2000/C2000Ware_6_00_00_00/device_support/f28003x/common/include/\" -I\"C:/ti/c2000/C2000Ware_6_00_00_00/driverlib/f28003x/driverlib/\" -DCPU1 -DCMDTOOL -xc",
+      "file"      : "D:/Users/abdrazno/Documents/Testing_igjen/leeeeed/CPU1_RAM/syscfg/c2000ware_libraries.c"
+   },
+   {
+      "directory" : "D:/Users/abdrazno/Documents/Testing_igjen/leeeeed/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/Users/abdrazno/Documents/Testing_igjen/leeeeed\" -I\"C:/ti/c2000/C2000Ware_6_00_00_00\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DRAM -Dgeneric_ram_lnk -I\"D:/Users/abdrazno/Documents/Testing_igjen/leeeeed/CPU1_RAM/syscfg\" -DF28003x=1 -I\"C:/ti/c2000/C2000Ware_6_00_00_00/device_support/f28003x/common/include/\" -I\"C:/ti/c2000/C2000Ware_6_00_00_00/driverlib/f28003x/driverlib/\" -DCPU1 -DCMDTOOL -xc",
+      "file"      : "D:/Users/abdrazno/Documents/Testing_igjen/leeeeed/CPU1_RAM/syscfg/device.c"
+   },
+   {
+      "directory" : "D:/Users/abdrazno/Documents/Testing_igjen/leeeeed/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/Users/abdrazno/Documents/Testing_igjen/leeeeed\" -I\"C:/ti/c2000/C2000Ware_6_00_00_00\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DRAM -Dgeneric_ram_lnk -I\"D:/Users/abdrazno/Documents/Testing_igjen/leeeeed/CPU1_RAM/syscfg\" -DF28003x=1 -I\"C:/ti/c2000/C2000Ware_6_00_00_00/device_support/f28003x/common/include/\" -I\"C:/ti/c2000/C2000Ware_6_00_00_00/driverlib/f28003x/driverlib/\" -DCPU1 -DCMDTOOL -xc",
+      "file"      : "D:/Users/abdrazno/Documents/Testing_igjen/leeeeed/CPU1_RAM/syscfg/device_cmd.c"
    }
 ]

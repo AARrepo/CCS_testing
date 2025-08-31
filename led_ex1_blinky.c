@@ -115,7 +115,7 @@ void main(void)
         //
         // Delay for a bit.
         //
-        DEVICE_DELAY_US(500000);
+        DEVICE_DELAY_US(50000);
 
         //
         // Turn off LED
@@ -125,7 +125,7 @@ void main(void)
         //
         // Delay for a bit.
         //
-        DEVICE_DELAY_US(500000);
+        DEVICE_DELAY_US(40000);
     }
 }
 

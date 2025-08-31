@@ -9,4 +9,7 @@
 	<templateProperties value="id=led_ex1_blinky.projectspec.led_ex1_blinky"/>
 	<origin value="C:\ti\c2000\C2000Ware_6_00_00_00\driverlib\f28003x\examples\led\CCS\led_ex1_blinky.projectspec"/>
 	<filesToOpen value=""/>
+	<connection value="common/targetdb/connections/TIXDS110_Connection.xml"/>
+	<activeTargetConfiguration value="targetConfigs/TMS320F280039C.ccxml"/>
+	<isTargetConfigurationManual value="false"/>
 </projectOptions>
