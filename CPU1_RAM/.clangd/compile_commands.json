@@ -1,0 +1,7 @@
+[
+   {
+      "directory" : "D:/Users/abdrazno/workspace_ccstheia/led_ex1_blinky/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/Users/abdrazno/workspace_ccstheia/led_ex1_blinky\" -I\"C:/ti/c2000/C2000Ware_6_00_00_00\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -DRAM -Dgeneric_ram_lnk -I\"D:/Users/abdrazno/workspace_ccstheia/led_ex1_blinky/CPU1_RAM/syscfg\" -xc",
+      "file"      : "D:/Users/abdrazno/workspace_ccstheia/led_ex1_blinky/led_ex1_blinky.c"
+   }
+]

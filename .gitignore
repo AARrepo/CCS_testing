@@ -1,0 +1,16 @@
+# Ignorer binære og midlertidige filer
+*.o
+*.obj
+*.d
+*.map
+*.out
+*.hex
+*.log
+*.dep
+
+# Behold viktige CCS metadata
+!.ccsproject
+!.project
+!.cproject
+!.settings/
+!targetConfigs/
